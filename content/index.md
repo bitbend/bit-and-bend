@@ -3,7 +3,7 @@ title: Welcome To Bit & Bend
 tags:
   - home
 created: 2024-12-11T22:10
-updated: 2026-09-13T07:30
+updated: 2026-09-13T08:43
 ---
 ---
 
@@ -11,11 +11,11 @@ updated: 2026-09-13T07:30
 
 ---
 
-Software is too hard. Computers feel like magic, so why shouldn’t software? We believe software should also feel like magic.
+We tricked flat rocks into thinking by electrocuting them literal black magic. So why does using software feel like filing taxes inside a dumpster fire? It shouldn’t. Software should cast actual fireballs.
 
 ---
 
-You can find us on [GitHub](https://github.com/bitbend) or chat with us on [Discord](https://discord.gg/pCNJ3bgFYj). Together, let’s push the boundaries of what we can learn and create.
+You can find us on [GitHub](https://github.com/bitbend) or chat with us on [Discord](https://discord.gg/pCNJ3bgFYj).
 
 ---
 
