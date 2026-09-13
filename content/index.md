@@ -3,11 +3,11 @@ title: Welcome To Bit & Bend
 tags:
   - home
 created: 2024-12-11T22:10
-updated: 2026-09-13T06:55
+updated: 2026-09-13T06:56
 ---
 ---
 
-![[home-1.webp]]
+![[home.webp]]
 
 ---
 
