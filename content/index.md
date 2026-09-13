@@ -3,7 +3,7 @@ title: Welcome To Bit & Bend
 tags:
   - home
 created: 2024-12-11T22:10
-updated: 2026-09-13T06:56
+updated: 2026-09-13T07:30
 ---
 ---
 
@@ -19,4 +19,4 @@ You can find us on [GitHub](https://github.com/bitbend) or chat with us on [Disc
 
 ---
 
-Made With 💖 By [@BitBend](https://github.com/bitbend)
+Made With 💖 By [@Bits](https://github.com/bitbend)
