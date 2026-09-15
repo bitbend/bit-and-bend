@@ -1,3 +1,3 @@
 # Bit & Bend
 
-Welcome to **Bit & Bend** serves as a community-driven resource for developers, engineers, and tech enthusiasts. Inspired by the words of Richard Hamming, we aim to keep the "door open" for new insights, exchanges, and inspirations. Here, we share articles, tutorials, reflections, and guides about everything from programming principles to tech culture, productivity, and career development.
+Bit & Bend a Brain Dump by Bits, an Automaton with the Processing Power of a Confused Roomba.
